@@ -26,4 +26,14 @@ Zudem wird das von der Ops-Liaison in die Dev-Teams eingebrachte IT-Betriebs-Wis
 [1.6. Gemeinsame Rituale]
 - Eine weitere Möglichkeit zur Verbesserung der Kommunikation ist die der Integration von IT-Betriebsmitarbeitern in etablierte Entwickler-Rituale. Das bedeutet, dass Personen aus dem OPS Team an den jeweiligen Ritualen des Dev-Teams teilnehmen. Dabei liegt der Fokus besonders auf den Standardritualen nach SCRUM, namentlich Sprint Planning, Daily Stand-ups und Retrospektiven. Das Feedback aus dem operativen Bereich hilft dem Product Owner, die Auswirkungen von Entscheidungen besser zu verstehen. Die zusätzlichen Arbeiten, die bei der Retrospektive des Projektteams identifiziert werden, fallen in die breite Kategorie der Verbesserungsarbeit, wie z. B. Fehlerbehebung, Refactoring und Automatisierung der manuellen Arbeit. Die Product Owner können die Verbesserungen zugunsten von Kundenmerkmalen verschieben oder entpriorisieren.
 
+[1.7. Developers on Support]
+[1.8. Generative Culture nach Ron Westrum]
+[1.9. System thinking]
+[1.20. Value Stream Mapping]
+[1.21. Job Shadowing]
+[1.22. A/B Testing]
+[1.23. Canary Release]
+[1.24. Blameless Postmortem]
+[1.25. Shift security to the left]
+
 
