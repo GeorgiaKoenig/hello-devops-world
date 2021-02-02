@@ -60,6 +60,28 @@ Zudem wird das von der Ops-Liaison in die Dev-Teams eingebrachte IT-Betriebs-Wis
 
 [1.23. Chaos engineering (http://principlesofchaos.org/)]
 
+[1.24. Aktive Beteiligung der Stakeholder]
+- Dies ist das grundlegende Leitprinzip von DevOps. DevOps kann nur dann erfolgreich sein, wenn sowohl die Entwickler als auch die Betriebs- und Supportmitarbeiter wirklich engagiert zusammenarbeiten und einen integrierten Ansatz zur Erreichung der Ziele verwenden.
 
+[1.25. Automatisiertes Testen]
+- Automatisierte Regressionstests werden von agilen Teams sehr häufig eingesetzt, um zu helfen, Probleme sofort zu beheben und eine höhere Codequalität zu liefern. Dies funktioniert auch bei DevOps gut, da es ein dringendes Bedürfnis des Betriebspersonals ist, dass der ausgelieferte Code einem bestimmten Qualitätsstandard entspricht.
+
+[1.26. Integriertes Konfigurationsmanagement]
+- In einer DevOps-Umgebung bezieht sich das Konfigurationsmanagement nicht nur auf die aktuelle Lösung, an der gearbeitet wird, sondern auch auf die Konfigurationsprobleme zwischen der Lösung und der restlichen Infrastruktur der Organisation. Das integrierte Konfigurationsmanagement hilft den Betriebsteams, die potenziellen Auswirkungen eines neuen Releases klarer zu sehen, was wiederum dabei hilft, bessere Entscheidungen darüber zu treffen, wann das Release durchgeführt werden sollte.
+
+[1.27. Integriertes Änderungsmanagement]
+- Beim integrierten Änderungsmanagement arbeiten Betriebs- und Entwicklungsteams zusammen, um zu verstehen, wie sich der Einsatz verschiedener Technologien auf das Unternehmen als Ganzes auswirkt, und arbeiten dann daran, dies zu bewältigen.
+
+[1.28. Integrated Deployment Planning]
+- Ein DevOps-Ansatz bedeutet, dass die Betriebsingenieure eng mit den Entwicklern zusammenarbeiten, wenn es um die Planung der Bereitstellung von Produkten gemäß einem organisatorischen Bereitstellungsplan geht.
+
+[1.29. Produktionsunterstützung]
+- Eine DevOps-Implementierung kann vorsehen, dass die Entwickler nicht nur an neuen Releases arbeiten, sondern auch an der Behebung kritischer Probleme mit einer Lösung, die bereits in Produktion ist. Obwohl sie als drittes und letztes Team in die Lösung von Produktionsproblemen involviert sind, ist dies ein ziemlich häufiges Vorkommnis und gibt ihnen Einblicke in Produktionsprobleme, die ihnen helfen, bessere Lösungen zu entwerfen.
+
+[1.30. Anwendungsüberwachung]
+- Dies bezieht sich auf die Praxis der Überwachung und Protokollierung von Lösungen in Echtzeit, sobald sie in Produktion sind. Dadurch erhalten wir Leistungsmetriken, die die Zuverlässigkeit der Lösung verbessern und Ausfälle verhindern.
+
+[1.31. Magic (automatisierte) Dashboards]
+- Der DevOps-Ansatz kann unterstützt werden, indem (automatisierte) Dashboards für verschiedene wichtige Metriken erstellt und geteilt werden. Dies begünstigt im besten Fall den Informationsfluss zwischen Teams, erhöht das Bewusstsein für die gemeinsame Wertgenerierung (Collective Ownership) und motiviert durch das Teilen von Erfolgen und positiven Trends. Natürlich können nicht alle Metriken automatisiert werden, aber einige Schlüsselmetriken können mit automatisierten Dashboards in Echtzeit eingesehen werden und sie liefern wichtige Geschäftsinformationen.
 
 
